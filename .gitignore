@@ -1,0 +1,14 @@
+*.aux
+*.bcf
+*.fdb_latexmk
+*.synctex.gz
+*.fls
+*.idx
+*.ilg
+*.ind
+*.log
+*.run.xml
+*.out
+
+*.xopp
+old.*
